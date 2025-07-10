@@ -46,4 +46,4 @@ Want to join the team? We're always looking for contributors who share our passi
 
 *Built with 💚 by developers who believe the future should be open, sustainable, and a little bit slimey.*
 
-**[Discord](https://discord.gg/mXZtZzc7pb) | [Twitter](https://x.com/builtbyslime)
+**[Discord](https://discord.gg/mXZtZzc7pb) | [Twitter](https://x.com/builtbyslime)**
