@@ -39,8 +39,7 @@ Want to join the team? We're always looking for contributors who share our passi
 
 ### Get Started
 1. Check out our repositories below 👇
-2. Read our contribution guidelines
-3. Jump into discussions
+2. Join our community
 4. Start building!
 
 ---
