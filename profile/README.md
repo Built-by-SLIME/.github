@@ -1,9 +1,5 @@
 # 🟢 Welcome to SLIME
 
-> *Sitcky, adaptable, and always moving forward* 
-
-## What is SLIME?
-
 We're a collective of developers building **Free and Open Source Software** on the **Hedera network**! Like our name suggests, we're flexible, resilient, and we stick together to create something bigger than the sum of our parts!
 
 ## 🧪 What We're Brewing
