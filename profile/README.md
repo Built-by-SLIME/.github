@@ -4,10 +4,10 @@ We're a collective of developers building **Free and Open Source Software** on t
 
 ## 🧪 What We're Cooking
 
-- ✅ **Hedera-native applications** that push the boundaries of what's possible
-- ✅ **Community-driven tools** that make development on Hedera more accessible 
-- ✅ **Innovative solutions** that solve real problems in the decentralized space
-- ✅ **Retail-driven tool** to usher more people into Hedera
+- ✅ **Hedera-native applications** - that push the boundaries of what's possible
+- ✅ **Community-driven tools** - that make development on Hedera more accessible 
+- ✅ **Innovative solutions** - that solve real problems in the decentralized space
+- ✅ **Retail-driven tools** - to usher more people into Hedera
 
 ## 🎮 Our Philosophy
 
